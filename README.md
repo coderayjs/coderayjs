@@ -33,7 +33,7 @@ Building products that ship—from Web3 to AI and fintech.
 
 ### Current
 
-**Building:** [MemeCheck](https://memecheck.co) · [Croowi](https://www.croowi.trade/) · [AdhereWell](https://adherewell.com) 
+**Building:** [MemeCheck](https://memecheck.co) · [AdhereWell](https://adherewell.com) 
  A degree in electrical & electronics and a postgraduate in software engineering.
 
 ---
