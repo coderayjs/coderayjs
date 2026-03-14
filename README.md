@@ -10,7 +10,6 @@ Building products that ship—from Web3 to AI and fintech.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-171717?style=for-the-badge&logo=googlechrome)](https://www.raymondtse.online/)
 [![X](https://img.shields.io/badge/X-@0x12sol-000000?style=for-the-badge&logo=x)](https://x.com/0x12sol)
-[![Instagram](https://img.shields.io/badge/Instagram-@0x12sol-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/0x12sol/)
 
 ---
 
