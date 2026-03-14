@@ -33,9 +33,8 @@ Building products that ship—from Web3 to AI and fintech.
 
 ### Current
 
-**Building:** [MemeCheck](https://memecheck.co) · [Croowi](https://www.croowi.trade/) · [AdhereWell](https://adherewell.com) · [PocoTask](https://pocotask.ng) · [PayParrot](https://www.payparrot.ng)
-
-Maitama, Abuja, Nigeria. A degree in electrical & electronics and a postgraduate in software engineering.
+**Building:** [MemeCheck](https://memecheck.co) · [Croowi](https://www.croowi.trade/) · [AdhereWell](https://adherewell.com) 
+ A degree in electrical & electronics and a postgraduate in software engineering.
 
 ---
 
