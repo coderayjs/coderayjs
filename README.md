@@ -9,7 +9,6 @@ Building products that ship—from Web3 to AI and fintech.
 ### Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-171717?style=for-the-badge&logo=googlechrome)](https://www.raymondtse.online/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/raymond--tse--js-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raymond-tse-js/)
 [![X](https://img.shields.io/badge/X-@0x12sol-000000?style=for-the-badge&logo=x)](https://x.com/0x12sol)
 [![Instagram](https://img.shields.io/badge/Instagram-@0x12sol-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/0x12sol/)
 
@@ -25,7 +24,7 @@ Maitama, Abuja, Nigeria. A degree in electrical & electronics and a postgraduate
 
 ### Tech Stack
 
-*Matches [raymondtse.online](https://www.raymondtse.online/) — same stack as on the site.*
+*Portfolio [raymondtse.online](https://www.raymondtse.online/) —check now*
 
 **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
