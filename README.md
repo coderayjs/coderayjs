@@ -13,14 +13,6 @@ Building products that ship—from Web3 to AI and fintech.
 
 ---
 
-### Current
-
-**Building:** [MemeCheck](https://memecheck.co) · [Croowi](https://www.croowi.trade/) · [AdhereWell](https://adherewell.com) · [PocoTask](https://pocotask.ng) · [PayParrot](https://www.payparrot.ng)
-
-Maitama, Abuja, Nigeria. A degree in electrical & electronics and a postgraduate in software engineering.
-
----
-
 ### Tech Stack
 
 **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-000000?style=flat-square&logo=shadcnui&logoColor=white) ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
@@ -38,3 +30,12 @@ Maitama, Abuja, Nigeria. A degree in electrical & electronics and a postgraduate
 ---
 
 *A passionate engineer building intuitive digital solutions—combining design principles with clean code. Open to new opportunities.*
+
+### Current
+
+**Building:** [MemeCheck](https://memecheck.co) · [Croowi](https://www.croowi.trade/) · [AdhereWell](https://adherewell.com) · [PocoTask](https://pocotask.ng) · [PayParrot](https://www.payparrot.ng)
+
+Maitama, Abuja, Nigeria. A degree in electrical & electronics and a postgraduate in software engineering.
+
+---
+
