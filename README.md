@@ -4,6 +4,9 @@
 
 Building products that ship—from Web3 to AI and fintech.
 
+**Founder & Lead dev @ :** [MemeCheck](https://memecheck.co) 
+
+
 ---
 
 ### Links
