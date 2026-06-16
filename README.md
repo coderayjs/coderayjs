@@ -4,7 +4,7 @@
 
 Building products that ship—from Web3 to AI and fintech.
 
-**Founder & Lead dev @ :** [MemeCheck](https://memecheck.co) 
+
 
 
 ---
@@ -36,7 +36,6 @@ Building products that ship—from Web3 to AI and fintech.
 
 ### Current
 
-**Building:** [MemeCheck](https://memecheck.co) · [AdhereWell](https://adherewell.com) 
  A degree in electrical & electronics and a postgraduate in software engineering.
 
 ---
